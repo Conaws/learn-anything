@@ -89,7 +89,14 @@
       "url": "/law/politics/political-science/libertarianism",
       "fx": -594.5887222290039,
       "fy": 55.64226531982422,
+      "nodes": [{
+      "text": "Hans-Hermann Hoppe ️",
+      "url": "https://en.wikipedia.org/wiki/Hans-Hermann_Hoppe",
+      "fx": -594.5887222290039,
+      "fy": 55.64226531982422,
       "nodes": [],
+      "category": "mindmap"
+    }],
       "category": "mindmap"
     },
     {
